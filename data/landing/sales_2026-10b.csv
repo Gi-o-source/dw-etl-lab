@@ -1,0 +1,9 @@
+order_id,order_date,store_id,store_name,barangay,city,product_id,product_name,category,quantity,unit_price
+ORD-2001,2026-10-05,S004,7-Eleven,España,Manila,P001,Instant pancit canton,Noodles,6,16.00
+ORD-2001,2026-10-05,S004,7-Eleven,España,Manila,P002,3-in-1 coffee sachet,Beverages,15,9.00
+ORD-2002,2026-10-05,S004,7-Eleven,España,Manila,P007,Cooking oil 250ml,Cooking essentials,4,35.00
+ORD-2002,2026-10-05,S004,7-Eleven,España,Manila,P007,Cooking oil 250ml,Cooking essentials,4,35.00
+ORD-2003,2026-10-06,S004,7-Eleven,España,Manila,P008,Soy sauce 200ml,Condiments,3,18.00
+ORD-2003,2026-10-06,S004,7-Eleven,España,Manila,P009,Vinegar 200ml,Condiments,-2,15.00
+ORD-2004,2026-10-06,S004,7-Eleven,España,Manila,P005,Rice 1kg,Grains,4,52.00
+ORD-2004,2026-10-06,S004,7-Eleven,España,Manila,P004,Softdrink 1.5L,Beverages,2,75.00
